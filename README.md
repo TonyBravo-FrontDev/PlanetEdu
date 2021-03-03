@@ -1,3 +1,12 @@
+#PlanetEdu
+A small application developed in react.js, you can check your weight on the planets of our solar system.
+
+#Image Preview
+![imagen](https://github.com/TonyBravo-FrontDev/PlanetEdu/blob/main/src/assets/img/planetedu.png)
+
+#Url Project
+https://priceless-tereshkova-3111fa.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
